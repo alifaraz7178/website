@@ -1,0 +1,3 @@
+Limit inferior is also called infimum limit, limit infimum, liminf, 
+inferior limit, lower limit, or inner limit; limit superior is also known as supremum limit,
+limit supremum, limsup, superior limit, upper limit, or outer limit.
